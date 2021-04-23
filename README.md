@@ -1,0 +1,2 @@
+# Stock
+Stock Management application
